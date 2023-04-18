@@ -1,0 +1,6 @@
+# This is the default network config written by 'Aqib Shahzad'
+network:
+  ethernets:
+    ens18:
+      dhcp4: true
+  version: 2
